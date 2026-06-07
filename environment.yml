@@ -13,5 +13,9 @@ dependencies:
   - scikit-image==0.25.2 
   - pip:
     - --index-url https://download.pytorch.org/whl/cu128
+<<<<<<< HEAD
     - torch==2.11.0+cu128 
+=======
+    - torch==2.11.0+cu128
+>>>>>>> 2bd87556da2309af74fc72c51d404d26ff84e38c
     - torchvision==0.26.0+cu128 
